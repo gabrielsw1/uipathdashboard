@@ -77,8 +77,7 @@ Você precisará das seguintes informações do seu ambiente UiPath:
 
 - URL do Orchestrator (ex: `https://cloud.uipath.com` ou URL do seu tenant)
 - Tenant ID
-- Client ID (OAuth2)
-- Client Secret (OAuth2)
+- PAT (PERSONAL ACCESS TOKEN)
 
 ## 🔧 Instalação
 
