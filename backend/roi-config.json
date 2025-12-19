@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "robotHourlyCost": 11,
+  "configs": [
+    {
+      "folderId": 597380,
+      "manualTimeHours": 8,
+      "personHourlyCost": 62,
+      "personCount": 10
+    }
+  ]
+}
